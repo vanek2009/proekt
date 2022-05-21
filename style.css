@@ -12,6 +12,7 @@ header {
     padding:5px 10px 5px 10px;
 }
 .link-nav {
+    margin: 0 auto;
     font-size:24px;
     color:black;
     padding:35px 40px 0px 40px;
