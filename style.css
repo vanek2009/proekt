@@ -6,9 +6,8 @@ header {
     padding:40px 0px 40px 25px;
 }
 .link-header {
-    margin: 0 auto;
     font-size:36px;
-    background-color:greenyellow;
+    background-image: linear-gradient(rgb(160, 117, 160),green);
     text-decoration:none;
     padding:5px 10px 5px 10px;
 }
@@ -18,6 +17,7 @@ header {
     padding:35px 40px 0px 40px;
 }
 h1 {
+    background-image: linear-gradient(aqua,green);
     text-align: center;
     color:greenyellow;
     font-size:96px;
