@@ -6,6 +6,7 @@ header {
     padding:40px 0px 40px 25px;
 }
 .link-header {
+    margin: 0 auto;
     font-size:36px;
     background-color:greenyellow;
     text-decoration:none;
