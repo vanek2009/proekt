@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color:aqua;
+    padding:40px 0px 40px 25px;
+}
+.link-header {
+    font-size:36px;
+    background-color:greenyellow;
+    text-decoration:none;
+    padding:5px 10px 5px 10px;
+}
+.link-nav {
+    font-size:24px;
+    color:black;
+    padding:35px 40px 0px 40px;
+}
+h1 {
+    text-align: center;
+    color:greenyellow;
+    font-size:96px;
+}
+p {
+    font-size:24px;
+    color:black;
+}
