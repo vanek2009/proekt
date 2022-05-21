@@ -18,10 +18,17 @@ header {
     padding:35px 40px 0px 40px;
 }
 h1 {
+    font-weight:normal;
+    border-bottom:2px solid navy;
+    padding-bottom:15px;
+    width:1100px;
+    margin:30px auto;
+    letter-spacing:15px;
+    text-shadow:-4px 2px navy,-8px 4px slateblue,-12px 6px turquoise;
     background-image: linear-gradient(aqua,green);
     text-align: center;
     color:greenyellow;
-    font-size:96px;
+    font-size:60px;
 }
 p {
     font-size:24px;
